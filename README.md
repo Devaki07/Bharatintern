@@ -41,11 +41,20 @@ The project uses a housing dataset containing information such as:
 
 * Model: Linear Regression
 * Evaluation Metric: Mean Squared Error (MSE)
+* * MSE: 63,312,797,742.69
 * Example Prediction:
-
   * House Size: 2000 sqft
   * Bedrooms: 4
   * Predicted Price: $480,750
+## Output
+### Dataset Preview
+<img width="1366" height="768" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/08d84871-8eb5-4d33-bf25-782dc7b2952b" />
+### Scatter Plot Visualization
+<img width="1366" height="768" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/7938ec88-e4a6-438d-a5cd-68c2516dd3d4" />
+### Mean Squared Error Output
+<img width="1366" height="768" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/c91af5b9-9a25-447c-92b9-c9b6dc35392b" />
+### House Price Prediction
+<img width="1366" height="768" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/a07992d2-2524-48c0-8add-d9891598f21e" />
 
 ## Learning Outcomes
 
